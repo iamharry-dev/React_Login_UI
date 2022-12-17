@@ -4,4 +4,4 @@
 
 ## Preview 
 
-![Screenshot](Preview.jpg)
+![Screenshot](preview.jpg)
